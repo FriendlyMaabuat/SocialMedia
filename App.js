@@ -35,7 +35,7 @@ const App = () => {
       profileImage: require('./assets/images/default_profile.png'),
     },
     {
-      firstName: 'Nata',
+      firstName: 'Dre',
       id: 5,
       profileImage: require('./assets/images/default_profile.png'),
     }, //4
